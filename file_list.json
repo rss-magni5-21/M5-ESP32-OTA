@@ -2,12 +2,12 @@
   "files": [
     {
       "name": "main.py",
-      "url": "https://raw.githubusercontent.com/rss-magni5-21/M5-ESP32-OTA/AQI/main/main.py"
+      "url": "https://raw.githubusercontent.com/rss-magni5-21/M5-ESP32-OTA/main/AQI/main/main.py"
     },
 
     {
       "name": "AQI.py",
-      "url": "https://raw.githubusercontent.com/rss-magni5-21/M5-ESP32-OTA/AQI/main/AQI.py"
+      "url": "https://raw.githubusercontent.com/rss-magni5-21/M5-ESP32-OTA/main/AQI/main/AQI.py"
     }
 
 
